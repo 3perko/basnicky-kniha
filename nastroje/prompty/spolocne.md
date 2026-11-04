@@ -11,7 +11,7 @@ Pre KAŽDÚ básničku v dávke zvlášť uveď:
 - čo funguje,
 - konkrétne a vykonateľné zmeny k 10/10 (číslo verša, problém, návrh riešenia). Môžeš navrhnúť aj úplne nový koncept alebo inú formu.
 
-Pozn.: Pri hádankach je v knihe nadpis nahradený slovom „HÁDANKA“ (riadny názov je v riešeniach), takže nadpis riešenie neprezrádza.
+Pozn.: Pri hádankach je v knihe nadpis nahradený slovom „HÁDANKA“ a posledné rýmové slovo (riešenie) je vytlačené ako vynechávka „……“, ktorú dieťa doplní; riešenie je na konci knihy. V rukopise dávky je riešenie vypísané, aby sa dalo hodnotiť.
 
 Celé hodnotenie zapíš po slovensky do súboru {VYSTUP} (Markdown). Na úplný koniec súboru pridaj strojovo čitateľný blok presne v tomto tvare:
 

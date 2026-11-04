@@ -85,15 +85,15 @@ Zmizol rýchlo pod lístie.
 *Poznámka autora:* Slovná hračka: Šípková Ruženka (šípky na kríku) čaká na princa – je ním mráz; po mraze sú šípky sladšie a je čas na šípkový čaj.
 
 Šípková Ruženka na kríku drieme,  
-čaká na princa – a kto to je? Vieme?  
-Kto je ten princ? Predsa studený mráz:  
+čaká, kým príde princ. Kto to je? Vieme?  
+Kto je ten princ? Je to studený mráz:  
 bozkom ju zobudí – na čaj je čas!  
 
 **Rozbor slabík:**
 
 1. šíp-ko-vá ru-žen-ka na krí-ku drie-me = 11  [1, 4, 7, 10]
-2. ča-ká na prin-ca a kto to je vie-me = 11  [1, 3, 10]
-3. kto je ten princ pred-sa stu-de-ný mráz = 10  [5, 7]
+2. ča-ká kým prí-de princ kto to je vie-me = 11  [1, 4, 10]
+3. kto je ten princ je to stu-de-ný mráz = 10  [7]
 4. boz-kom ju zo-bu-dí na čaj je čas = 10  [1, 4, 7]
 
 ---
@@ -104,19 +104,19 @@ bozkom ju zobudí – na čaj je čas!
 
 *Poznámka autora:* Zelené banány cestujú loďou a je im zle (zelení od morskej choroby); na pulte v obchode si vydýchnu a od radosti zožltnú.
 
-Zelené banány – a vôkol more,  
-vlny ich hojdajú dolu a hore.  
-„Je mi zle!“ – „Aj mne!“ – „Ja zelený som celý!“  
-Kapitán zavolá: „Len buďte smelí!“  
+Zelené banány, vlny a more,  
+hojdá ich, hojdá ich dolu a hore.  
+„Je mi zle!“ – „Aj mne!“ – „Som zelený celý!“  
+Kapitán zavolá: „Buďte len smelí!“  
 Na pulte v obchode vydýchnu: „Uf!“  
 Od veľkej radosti zožltnú – puf!  
 
 **Rozbor slabík:**
 
-1. ze-le-né ba-ná-ny a vô-kol mo-re = 11  [1, 4, 8, 10]
-2. vl-ny ich hoj-da-jú do-lu a ho-re = 11  [1, 4, 7, 10]
-3. je mi zle aj mne ja ze-le-ný som ce-lý = 12  [7, 11]
-4. ka-pi-tán za-vo-lá len buď-te sme-lí = 11  [1, 4, 8, 10]
+1. ze-le-né ba-ná-ny vl-ny a mo-re = 11  [1, 4, 7, 10]
+2. hoj-dá ich hoj-dá ich do-lu a ho-re = 11  [1, 4, 7, 10]
+3. je mi zle aj mne som ze-le-ný ce-lý = 11  [7, 10]
+4. ka-pi-tán za-vo-lá buď-te len sme-lí = 11  [1, 4, 7, 10]
 5. na pul-te v ob-cho-de vy-dých-nu uf = 10  [1, 4, 7]
 6. od veľ-kej ra-do-sti zo-žlt-nú puf = 10  [1, 4, 7]
 
@@ -179,7 +179,7 @@ sladký, žltý ananás!
 Kivi, ten vtáčik, bol na svete sám.  
 Pod kríkom vzdychá: „Kde bračeka mám?“  
 Zrazu – hľa! – pozrite, v tráve má brata:  
-chlpatý, hnedý, ako keby z blata!  
+chlpatý, hnedý a špinavý z blata!  
 Mama sa zasmeje: „To nie je vták,  
 ovocie kivi je – volá sa tak!“  
 Vtáčik sa poteší: „Kivi si? Ja tiež!  
@@ -190,7 +190,7 @@ Budeš môj braček – veď lietať ty nevieš!“
 1. ki-vi ten vtá-čik bol na sve-te sám = 10  [1, 4, 7]
 2. pod krí-kom vzdy-chá kde bra-če-ka mám = 10  [1, 4, 7]
 3. zra-zu hľa po-zri-te v trá-ve má bra-ta = 11  [1, 4, 7, 10]
-4. chl-pa-tý hne-dý a-ko ke-by z bla-ta = 11  [1, 4, 6, 8, 10]
+4. chl-pa-tý hne-dý a špi-na-vý z bla-ta = 11  [1, 4, 7, 10]
 5. ma-ma sa zas-me-je to nie je vták = 10  [1, 4]
 6. o-vo-cie ki-vi je vo-lá sa tak = 10  [1, 4, 7]
 7. vtá-čik sa po-te-ší ki-vi si ja tiež = 11  [1, 4, 7]

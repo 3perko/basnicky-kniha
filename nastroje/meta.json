@@ -1,0 +1,366 @@
+{
+ "basne": [
+  {
+   "cislo": 1,
+   "polozka": "jahoda",
+   "nazov": "JAHODOVÁ",
+   "cast": "I",
+   "forma": "H",
+   "metrum": "T",
+   "humor": "IN"
+  },
+  {
+   "cislo": 2,
+   "polozka": "čerešňa",
+   "nazov": "ČEREŠŇOVÁ",
+   "cast": "I",
+   "forma": "P",
+   "metrum": "T",
+   "humor": "AB"
+  },
+  {
+   "cislo": 3,
+   "polozka": "egreš",
+   "nazov": "EGREŠOVÁ",
+   "cast": "I",
+   "forma": "Z",
+   "metrum": "D",
+   "humor": "ZM"
+  },
+  {
+   "cislo": 4,
+   "polozka": "ríbezľa",
+   "nazov": "RÍBEZĽOVÁ",
+   "cast": "I",
+   "forma": "S",
+   "metrum": "T",
+   "humor": "ZV"
+  },
+  {
+   "cislo": 5,
+   "polozka": "višňa",
+   "nazov": "VIŠŇOVÁ",
+   "cast": "I",
+   "forma": "D",
+   "metrum": "T",
+   "humor": "SH"
+  },
+  {
+   "cislo": 6,
+   "polozka": "čučoriedka",
+   "nazov": "ČUČORIEDKOVÁ",
+   "cast": "I",
+   "forma": "P",
+   "metrum": "D",
+   "humor": "ZV"
+  },
+  {
+   "cislo": 7,
+   "polozka": "malina",
+   "nazov": "MALINOVÁ",
+   "cast": "I",
+   "forma": "R",
+   "metrum": "D",
+   "humor": "AB"
+  },
+  {
+   "cislo": 8,
+   "polozka": "marhuľa",
+   "nazov": "MARHUĽOVÁ",
+   "cast": "I",
+   "forma": "H",
+   "metrum": "T",
+   "humor": "IN"
+  },
+  {
+   "cislo": 9,
+   "polozka": "broskyňa",
+   "nazov": "BROSKYŇOVÁ",
+   "cast": "I",
+   "forma": "Z",
+   "metrum": "D",
+   "humor": "ZM"
+  },
+  {
+   "cislo": 10,
+   "polozka": "černica",
+   "nazov": "ČERNICOVÁ",
+   "cast": "I",
+   "forma": "S",
+   "metrum": "D",
+   "humor": "AB"
+  },
+  {
+   "cislo": 11,
+   "polozka": "melón",
+   "nazov": "MELÓNOVÁ",
+   "cast": "I",
+   "forma": "D",
+   "metrum": "T",
+   "humor": "ZV"
+  },
+  {
+   "cislo": 12,
+   "polozka": "hruška",
+   "nazov": "HRUŠKOVÁ",
+   "cast": "I",
+   "forma": "P",
+   "metrum": "T",
+   "humor": "SH"
+  },
+  {
+   "cislo": 13,
+   "polozka": "slivka",
+   "nazov": "SLIVKOVÁ",
+   "cast": "I",
+   "forma": "K",
+   "metrum": "D",
+   "humor": "AB"
+  },
+  {
+   "cislo": 14,
+   "polozka": "figa",
+   "nazov": "FIGOVÁ",
+   "cast": "I",
+   "forma": "S",
+   "metrum": "T",
+   "humor": "SH"
+  },
+  {
+   "cislo": 15,
+   "polozka": "jablko",
+   "nazov": "JABLKOVÁ",
+   "cast": "I",
+   "forma": "R",
+   "metrum": "D",
+   "humor": "IN"
+  },
+  {
+   "cislo": 16,
+   "polozka": "hrozno",
+   "nazov": "HROZNOVÁ",
+   "cast": "I",
+   "forma": "P",
+   "metrum": "T",
+   "humor": "ZV"
+  },
+  {
+   "cislo": 17,
+   "polozka": "vlašský orech",
+   "nazov": "ORECHOVÁ",
+   "cast": "I",
+   "forma": "H",
+   "metrum": "T",
+   "humor": "IN"
+  },
+  {
+   "cislo": 18,
+   "polozka": "lieskový oriešok",
+   "nazov": "ORIEŠKOVÁ",
+   "cast": "I",
+   "forma": "P",
+   "metrum": "J",
+   "humor": "ZV"
+  },
+  {
+   "cislo": 19,
+   "polozka": "gaštan",
+   "nazov": "GAŠTANOVÁ",
+   "cast": "I",
+   "forma": "D",
+   "metrum": "T",
+   "humor": "AB"
+  },
+  {
+   "cislo": 20,
+   "polozka": "šípka",
+   "nazov": "ŠÍPKOVÁ",
+   "cast": "I",
+   "forma": "S",
+   "metrum": "T",
+   "humor": "SH"
+  },
+  {
+   "cislo": 21,
+   "polozka": "banán",
+   "nazov": "BANÁNOVÁ",
+   "cast": "II",
+   "forma": "P",
+   "metrum": "D",
+   "humor": "AB"
+  },
+  {
+   "cislo": 22,
+   "polozka": "kokos",
+   "nazov": "KOKOSOVÁ",
+   "cast": "II",
+   "forma": "Z",
+   "metrum": "T",
+   "humor": "ZM"
+  },
+  {
+   "cislo": 23,
+   "polozka": "ananás",
+   "nazov": "ANANÁSOVÁ",
+   "cast": "II",
+   "forma": "H",
+   "metrum": "T",
+   "humor": "IN"
+  },
+  {
+   "cislo": 24,
+   "polozka": "kivi",
+   "nazov": "KIVI",
+   "cast": "II",
+   "forma": "P",
+   "metrum": "D",
+   "humor": "ZV"
+  },
+  {
+   "cislo": 25,
+   "polozka": "mango",
+   "nazov": "MANGOVÁ",
+   "cast": "II",
+   "forma": "H",
+   "metrum": "T",
+   "humor": "IN"
+  },
+  {
+   "cislo": 26,
+   "polozka": "datľa",
+   "nazov": "DATĽOVÁ",
+   "cast": "II",
+   "forma": "K",
+   "metrum": "D",
+   "humor": "ZV"
+  },
+  {
+   "cislo": 27,
+   "polozka": "granátové jablko",
+   "nazov": "GRANÁTOVÉ JABLKO",
+   "cast": "II",
+   "forma": "R",
+   "metrum": "T",
+   "humor": "IN"
+  },
+  {
+   "cislo": 28,
+   "polozka": "citrón",
+   "nazov": "CITRÓNOVÁ",
+   "cast": "II",
+   "forma": "S",
+   "metrum": "T",
+   "humor": "AB"
+  },
+  {
+   "cislo": 29,
+   "polozka": "pomaranč",
+   "nazov": "POMARANČOVÁ",
+   "cast": "II",
+   "forma": "D",
+   "metrum": "J",
+   "humor": "SH"
+  },
+  {
+   "cislo": 30,
+   "polozka": "mandarínka",
+   "nazov": "MANDARÍNKOVÁ",
+   "cast": "II",
+   "forma": "P",
+   "metrum": "T",
+   "humor": "ZV"
+  },
+  {
+   "cislo": 31,
+   "polozka": "hrášok",
+   "nazov": "HRÁŠKOVÁ",
+   "cast": "III",
+   "forma": "R",
+   "metrum": "T",
+   "humor": "IN"
+  },
+  {
+   "cislo": 32,
+   "polozka": "mrkva",
+   "nazov": "MRKVOVÁ",
+   "cast": "III",
+   "forma": "S",
+   "metrum": "D",
+   "humor": "AB"
+  },
+  {
+   "cislo": 33,
+   "polozka": "cibuľa",
+   "nazov": "CIBUĽOVÁ",
+   "cast": "III",
+   "forma": "P",
+   "metrum": "T",
+   "humor": "ZV"
+  },
+  {
+   "cislo": 34,
+   "polozka": "uhorka",
+   "nazov": "UHORKOVÁ",
+   "cast": "III",
+   "forma": "H",
+   "metrum": "T",
+   "humor": "IN"
+  },
+  {
+   "cislo": 35,
+   "polozka": "brokolica",
+   "nazov": "BROKOLICOVÁ",
+   "cast": "III",
+   "forma": "D",
+   "metrum": "D",
+   "humor": "AB"
+  },
+  {
+   "cislo": 36,
+   "polozka": "paradajka",
+   "nazov": "PARADAJKOVÁ",
+   "cast": "III",
+   "forma": "S",
+   "metrum": "T",
+   "humor": "SH"
+  },
+  {
+   "cislo": 37,
+   "polozka": "paprika",
+   "nazov": "PAPRIKOVÁ",
+   "cast": "III",
+   "forma": "Z",
+   "metrum": "T",
+   "humor": "ZM"
+  },
+  {
+   "cislo": 38,
+   "polozka": "zemiak",
+   "nazov": "ZEMIAKOVÁ",
+   "cast": "III",
+   "forma": "R",
+   "metrum": "D",
+   "humor": "IN"
+  },
+  {
+   "cislo": 39,
+   "polozka": "kukurica",
+   "nazov": "KUKURIČNÁ",
+   "cast": "III",
+   "forma": "Z",
+   "metrum": "T",
+   "humor": "ZM"
+  },
+  {
+   "cislo": 40,
+   "polozka": "tekvica",
+   "nazov": "TEKVICOVÁ",
+   "cast": "III",
+   "forma": "K",
+   "metrum": "T",
+   "humor": "ZV"
+  }
+ ],
+ "pod_prahom": {},
+ "poznamky": {}
+}
